@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-public class Segven {
+public class Kyle7 {
     public static void main(String[] args) {
         int[] arr = {-5, 10, -7, 4, -1};
 
