@@ -12,7 +12,6 @@
        if (num == target) {
            count++;
        }
-   }
-    System.out.println("The number " + target + " appears " + "count " + "times. ");
-}
+    System.out.println("The number " + target + " appears " + count + " times. ");
+ }
 }
